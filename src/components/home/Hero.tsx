@@ -20,9 +20,7 @@ const Hero = () => {
             <p className="mt-6 text-xl text-gray-600 max-w-lg">
               {/* paypal */}
               Secure your future with the help of your loan value – a loan up to{" "}
-              <span className="font-bold text-primary-600">
-                ₱ 100,000 - ₱ 10,000,000
-              </span>
+              <span className="font-bold text-primary-600">150K to 3M</span>
             </p>
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <button className="flex items-center justify-center space-x-2 bg-primary-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-primary-700 transition-all transform hover:scale-105 shadow-lg shadow-primary-600/30">
