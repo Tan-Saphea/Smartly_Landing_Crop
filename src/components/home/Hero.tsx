@@ -27,7 +27,7 @@ const Hero = () => {
             <div className="mt-8 flex flex-col sm:flex-row gap-4">
               <button className="flex items-center justify-center space-x-2 bg-primary-600 text-white px-8 py-4 rounded-full font-semibold hover:bg-primary-700 transition-all transform hover:scale-105 shadow-lg shadow-primary-600/30">
                 <a
-                  href="https://ofwfinancialservice.com/register"
+                  href="https://smartylendingcorp.com/register"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
