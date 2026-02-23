@@ -22,7 +22,7 @@ const AboutSnippet = () => {
           <div className="flex flex-wrap justify-center gap-4">
             <div className="bg-gray-800 px-6 py-3 rounded-lg border border-gray-700">
               <span className="block text-2xl font-bold text-primary-400">
-                0.003
+                0.5%
               </span>
               <span className="text-sm text-gray-400">Fixed Interest Rate</span>
             </div>
